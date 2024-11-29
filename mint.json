@@ -50,14 +50,14 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Explore Hubs",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "hubs/Identity-hub/index",
+        "hubs/email-hub/index",
+        "hubs/endpoint-hub/index",
+        "hubs/training-hub/index",
+        "hubs/easm-hub/index",
+        "hubs/integrations/index"
       ]
     }
   ],
