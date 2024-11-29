@@ -32,32 +32,21 @@
   "tabs": [
   ],
   "anchors": [
-    {
-      "name": "Getting Started",
-      "icon": "cube",
-      "url": "getting-started/index"
-    },
-    {
-      "name": "What's New",
-      "icon": "star",
-      "url": "whats-new"
-    }
   ],
   "navigation": [
     {
       "group": "",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "getting-started",
+        "whats-new"
       ]
     },
     {
       "group": "",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "knowledge-base",
+        "faqs",
+        "video-guides"
       ]
     },
     {
