@@ -34,11 +34,13 @@
   "anchors": [
     {
       "name": "Getting Started",
-      "url": "getting-started"
+      "icon": "cube",
+      "url": "https://ynet.co.il"
     },
     {
       "name": "What's New",
-      "url": "whats-new"
+      "icon": "star",
+      "url": "https://ynet.co.il"
     }
   ],
   "navigation": [
