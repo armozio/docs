@@ -35,12 +35,12 @@
     {
       "name": "Getting Started",
       "icon": "cube",
-      "url": "https://ynet.co.il"
+      "url": "getting-started"
     },
     {
       "name": "What's New",
       "icon": "star",
-      "url": "https://ynet.co.il"
+      "url": "whats-new"
     }
   ],
   "navigation": [
