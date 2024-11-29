@@ -33,24 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Getting Started",
+      "icon": "cube",
+      "url": "getting-started"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "What's New",
+      "icon": "star",
+      "url": "whats-new"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "",
       "pages": [
         "introduction",
         "quickstart",
