@@ -53,6 +53,14 @@
       ]
     },
     {
+      "group": "",
+      "pages": [
+        "introduction",
+        "quickstart",
+        "development"
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
