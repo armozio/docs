@@ -39,7 +39,7 @@
     },
     {
       "name": "What's New",
-      "icon": "star",
+      "icon": "fas star",
       "url": "https://ynet.co.il"
     }
   ],
