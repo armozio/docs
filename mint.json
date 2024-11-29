@@ -35,11 +35,11 @@
     {
       "name": "Getting Started",
       "icon": "cube",
-      "url": "development"
+      "url": "https://ynet.co.il"
     },
     {
       "name": "What's New",
-      "icon": "fas star",
+      "icon": "star",
       "url": "https://ynet.co.il"
     }
   ],
