@@ -34,12 +34,10 @@
   "anchors": [
     {
       "name": "Getting Started",
-      "icon": "cube",
       "url": "getting-started"
     },
     {
       "name": "What's New",
-      "icon": "star",
       "url": "whats-new"
     }
   ],
