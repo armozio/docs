@@ -62,12 +62,6 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
-    },
-    {
-      "group": "Getting Started",
-      "pages": [
-        "getting-started/index"
-      ]
     }
   ],
   "footerSocials": {
